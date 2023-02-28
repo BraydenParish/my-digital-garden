@@ -5,6 +5,7 @@ id: home
 permalink: /
 ---
 
+# Welcome! 
 Hi im Brayden, welcome to my research vault.
 
 Here I talk and do research on my interests
