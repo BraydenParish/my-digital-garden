@@ -5,29 +5,17 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+Hi im Brayden, welcome to my research vault.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+Here I talk and do research on my interests
 
-Welcome to my vault
+What would you like to learn about?
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+# Topics
+[[Mathematics]]
+[[Science]]
+[[Philosophy]]
+[[Computer Science]]
+[[Programming]]
 
-<strong>Recently updated notes</strong>
-
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes | limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+# Recent Musings
