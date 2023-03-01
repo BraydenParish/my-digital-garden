@@ -19,4 +19,9 @@ What would you like to learn about?
 [[Computer Science]]
 [[Programming]]
 
-# Recent Musings
+# Journal
+
+[[2023-02-28]]
+
+# Writings
+[[Conversations with Bing AI]]  
