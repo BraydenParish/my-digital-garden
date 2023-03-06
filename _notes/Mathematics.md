@@ -1,12 +1,3 @@
-Mathematics is the study of numbers.
+Numbers
 
-[[Arithmetic]]
-[[Algebra]]
-[[Geometry]]
-[[Trigonometry]]
-[[Calculus]]
-[[Statistics, Probability]]
-[[Set Theory]]
-
-[[Physics]]
-[[Quantum Physics]]
+[[History of Mathematics]]

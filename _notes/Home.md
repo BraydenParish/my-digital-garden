@@ -1,10 +1,3 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
----
-
 Welcome to my vault.
 
 # Topics
@@ -16,9 +9,10 @@ Welcome to my vault.
 [[Neuroscience]]
 [[Learning Science]]
 
+[[Brainstorming]] 
 # Recent
 ```dataview
 LIST
-FROM "_notes"
+FROM "Notes"
 SORT file.mtime DESC
 ```

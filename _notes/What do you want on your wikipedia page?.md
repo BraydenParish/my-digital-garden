@@ -1,0 +1,1 @@
+Entrepreneur, Musician, Painter, Mathematician, Physicist, Computer Programmer, Philosopher, MMA Fighter, Podcast Host, Author, AI Specialist, Psychologist, Researcher, Professor, car designer, designer, sculptor, futurist, producer,  
